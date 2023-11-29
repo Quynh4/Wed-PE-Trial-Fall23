@@ -1,0 +1,38 @@
+header{
+    background-color: lightgray;
+    text-align: center;
+}
+
+header h1{
+    text-transform: uppercase;
+    color: yellow;
+}
+
+header nav a{
+    background-color:rgba(123, 121, 121, 0.863);
+    color: black;
+}
+
+aside{
+    display: none;
+}
+
+section{
+    background-color: lightgray;
+}
+
+section h2{
+    color: grey;
+    text-transform: uppercase;
+}
+
+.right table{
+    display: flex;
+    justify-content: center;
+}
+
+
+.right table tr th{
+    background-color: rgb(247, 247, 142);
+}
+
